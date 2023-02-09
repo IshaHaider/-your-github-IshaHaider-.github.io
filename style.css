@@ -25,7 +25,7 @@ p{font-weight:lighter;padding-left: 30px;}
 
 /* hyperlink styling */
 a:link { /* unvisited link */
-    color: red;
+    color: #6e6d6d;
     text-decoration: none;}
 a:visited  { /* page you already reached */
     color: #6e6d6d;
